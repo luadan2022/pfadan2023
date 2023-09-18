@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Paquete básico",
+        "precio": 1500
+    },
+    {
+        "nombre": "Preboda",
+        "precio": 200
+    },
+    {
+        "nombre": "Video",
+        "precio": 800
+    }
+]
